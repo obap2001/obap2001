@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm an information system student at Universitas Indonesia who's passionate about web development. 
-
 
 **Github Statistics:**
 <p align="left">
