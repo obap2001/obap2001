@@ -1,9 +1,9 @@
 
 **Github Statistics:**
 <p align="left">
-<a href="https://github.com/rirism">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rirism&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rirism&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/obap2001">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=obap2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=obap2001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
